@@ -1,0 +1,28 @@
+name: 'BLANCA PRIETO '
+favicon: null
+layout_spectrum: 0.9344273675233126
+typography_spectrum: 0.5581810926087201
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9991435306146741
+  lightness: 0.47194188949652016
+  saturation: 0.3366178721189499
+  rhythmicContrast: 0.18807883700355887
+purpose: []
